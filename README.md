@@ -1,2 +1,2 @@
 # stopwatch
-it is a stop watch
+it is a stopwatch
